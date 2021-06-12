@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom';
 
 import './index.css';
 
-import axios from 'axios';
+// import axios from 'axios';
 
-import { fetchCards } from './api';
+// import { fetchCards } from './api';
 import { DeckList, SearchBar, SearchResults } from './components';
 
 const App = () => {
